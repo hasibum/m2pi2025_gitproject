@@ -4,7 +4,7 @@ This is the summary for our proposal.
 
 # Funding
 
-Information on funding for the project.
+Information on funding for the project. Let's apply for MITACS funding.
 
 # Methods
 
